@@ -1633,7 +1633,6 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			height: 100%;
 			width: 100%;
 		}
 
@@ -2126,7 +2125,7 @@ input, select, textarea {
 		}
 
 			#top .image img {
-				border-radius: 50%;
+				border-radius: 100%;
 			}
 
 		#top h1 {
