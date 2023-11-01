@@ -71,10 +71,6 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-#Videos {
-	padding-left: 1em;
-	padding-right: 1em;
-}
 
 /* Basic */
 
@@ -224,7 +220,6 @@ input, select, textarea {
 		footer > p {
 			font-size: 1.25em;
 		}
-
 /* Container */
 
 	.container {
@@ -285,6 +280,8 @@ input, select, textarea {
 				}
 
 		}
+
+
 
 /* Row */
 
